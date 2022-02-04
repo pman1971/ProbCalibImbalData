@@ -1,0 +1,35 @@
+https://towardsdatascience.com/probability-calibration-for-imbalanced-dataset-64af3730eaab
+A suggestion to Undersampling method
+Kyosuke Morita
+Kyosuke Morita
+
+Nov 18, 2019·8 min read
+
+
+  https://github.com/kyosek/Probability-Calibration-Imbalanced/search?q=Calibrating+Probability+with+Undersampling+for+Unbalanced+Classification
+  
+  
+https://www.kdnuggets.com/2020/12/undersampling-change-base-rates-model-predictions.html
+
+  https://www.analyticsvidhya.com/blog/2016/07/platt-scaling-isotonic-regression-minimize-logloss-error/
+  
+  https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/algo-params/calibrate_model.html
+  
+  https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/algo-params/calibrate_model.html
+  
+  https://scikit-learn.org/stable/modules/calibration.html
+  
+  https://stackoverflow.com/questions/28357390/calculate-model-calibration-during-cross-validation-in-caret
+  
+  
+  https://rdrr.io/github/etlundquist/eRic/man/prCalibrate.html
+  
+  https://arxiv.org/pdf/2002.10199.pdf
+  
+  
+  https://ai.plainenglish.io/why-platt-scaling-and-implementation-from-scratch-62c0cfea4607
+  Has sigmoid formula
+  
+https://gdmarmerola.github.io/probability-calibration/
+
+https://stackoverflow.com/questions/45164528/convert-predicted-probabilities-after-downsampling-to-actual-probabilities-in-cl/45164727#45164727
